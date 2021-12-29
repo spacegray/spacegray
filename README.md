@@ -1,8 +1,6 @@
 <h1 align="center">Hello! I'm Ayla</h1>
 <h3 align="center">I’m a passionate software developer with the innovative and creative mindset of an entrepreneur. I have experience building dynamic web applications in JavaScript, React, and HTML/CSS. Programming has been my outlet for problem-solving and creative expression. My background is in the music industry, fashion merchandising and digital marketing</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=spacegray&show_icons=true&locale=en" alt="spacegray" /></p> 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=spacegray&" alt="spacegray" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spacegray&show_icons=true&locale=en&layout=compact" alt="spacegray" /></p>
 
 - 🔭 I’m currently working on [HauteFinder](https://haute-finder.herokuapp.com/)
 
@@ -32,4 +30,5 @@
 <p><a href="https://www.buymeacoffee.com/aylabasha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aylabasha" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=spacegray&show_icons=true&locale=en" alt="spacegray" /></p> 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=spacegray&" alt="spacegray" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spacegray&" alt="spacegray" /></p>
