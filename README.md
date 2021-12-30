@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋 I'm Ayla</h1>
-<h3 align="center">A passionate software developer with the innovative and creative mindset of an entrepreneur. I have experience building dynamic web applications in JavaScript, React, Python, and HTML/CSS. Programming has been my outlet for problem-solving and creative expression. My background is in the music industry, fashion merchandising and digital marketing. I love combining my passions when I create applications</h3>
+<h3 align="center">A passionate software developer with the innovative and creative mindset of an entrepreneur. Programming has been my outlet for problem-solving and creative expression. My background is in the music industry, fashion merchandising and digital marketing. I love combining my passions when I create applications</h3>
 
 - 🔭 I’m currently working on [HauteFinder](https://haute-finder.herokuapp.com/)
 
