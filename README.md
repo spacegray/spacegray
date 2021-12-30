@@ -5,7 +5,7 @@
 
 - 🌱 The Technologies I've learned so far are: **JavaScript, React,Python,JSX, HTML, CSS, Express,Flask, SQL, PostresSQL, Sequelize, SQLAlchemy, Git, Github, Node.js, Pug, Docker**
 
-- 🎸 A Project I'd like to showcase is: [MusicHub](https://musichub-aa.herokuapp.com/)
+- 🎸 A project I'd like to showcase is: [MusicHub](https://musichub-aa.herokuapp.com/)
 
 - 🤝 I’m currently looking for a full time role at a dynamic company: [Contact me here](https://bit.ly/email-ayla)
 
