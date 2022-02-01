@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋 I'm Ayla</h1>
 <h4 align="center">As a recent App Academy Grad, programming has been my outlet for problem-solving and creative expression. My background is in the music industry, fashion merchandising and digital marketing. I love combining my creative interests when I develop applications</h4>
 
-- 🔭 I’m currently working on [HauteFinder](https://haute-finder.herokuapp.com/)
+- 🔭 I’m currently working on adding more features to [HauteFinder](https://haute-finder.herokuapp.com/)
 
 - 🌱 The Technologies I've learned so far are: **JavaScript, React,Python,JSX, HTML, CSS, Express,Flask, SQL, PostresSQL, Sequelize, SQLAlchemy, Git, Github, Node.js, Pug, Docker**
 
