@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋 I'm Ayla</h1>
-<h3 align="center">As a recent App Academy Grad, programming has been my outlet for problem-solving and creative expression. My background is in the music industry, fashion merchandising and digital marketing. I love combining my creative interests when I develop applications</h3>
+<h4 align="center">As a recent App Academy Grad, programming has been my outlet for problem-solving and creative expression. My background is in the music industry, fashion merchandising and digital marketing. I love combining my creative interests when I develop applications</h4>
 
 - 🔭 I’m currently working on [HauteFinder](https://haute-finder.herokuapp.com/)
 
