@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **https://bit.ly/email-ayla**
 
-- 📄 Link to Resume: [https://bit.ly/Ayla-Basha-Resume-22](https://bit.ly/Ayla-Basha-Resume-22)
+- 📄 Link to Resume: [https://bit.ly/Ayla-Basha-Resume-22](https://docs.google.com/document/d/11qkG_jJJtPYkh6xveHD0-57iG39Bhej7_L76W3fNgEg/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
