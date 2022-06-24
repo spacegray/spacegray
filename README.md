@@ -7,8 +7,6 @@
 
 - 🎸 A project I'd like to showcase is: [MusicHub](https://musichub-aa.herokuapp.com/)
 
-- 🤝 I’m currently looking for a full time role at a dynamic company: [Contact me here](https://bit.ly/email-ayla)
-
 - 👨‍💻 All of my projects are available at [https://ayla-portfolio.herokuapp.com/](https://ayla-portfolio.herokuapp.com/)
 
 - 💬 Ask me about **react, javascript, python, music**
