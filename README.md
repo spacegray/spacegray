@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at Godwit Key Company building the [Key Conservation platform](https://keyconservation.org/)
 
-- 🌱 The Technologies I've learned so far are: **JavaScript, React,Python,JSX, HTML, CSS, Express,Flask, SQL, PostresSQL, Sequelize, SQLAlchemy, Git, Github, Node.js, Pug, Docker**
+- 🌱 The Technologies I've learned so far are: **JavaScript, React,Python,JSX, HTML, CSS, Express,Flask, SQL, PostresSQL, Sequelize, SQLAlchemy, Git, Github, Node.js, Docker, TypeScript, React Native, graphql**
 
 - 🎸 A project I'd like to showcase is: [MusicHub](https://musichub-aa.herokuapp.com/)
 
