@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋 I'm Ayla</h1>
 <h4 align="center">Programming has been my outlet for problem-solving and creative expression. My background is in Music, Entertainment, and Political Science. I love combining my creative interests when I develop applications</h4>
 
-- 🔭 I’m currently working at Godwit Key Company, helping to build the [Key Conservation platform](https://keyconservation.org/)
-
 - 🌱 The Technologies I've learned so far are: **JavaScript, React,Python,JSX, HTML, CSS, Express,Flask, SQL, PostresSQL, Sequelize, SQLAlchemy, Git, Github, Node.js, Docker, TypeScript, React Native, graphql**
 
 - 🎸 A project I'd like to showcase is: [MusicHub](https://musichub-aa.herokuapp.com/)
